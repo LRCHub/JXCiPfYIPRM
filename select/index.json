@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ここにいる",
+  "base_artist": "MC TYSON",
+  "createdAt": "2025-12-03T20:49:33.018457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここにいる (feat. rionos) (Stephen Walking Remix)",
+      "artist": "Aiobahn",
+      "has_synced": false,
+      "path": "select/01_ここにいる_(feat._rionos)_(Stephen_Walking_Remix)_Aiobahn.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn feat. Rionos",
+      "has_synced": true,
+      "path": "select/02_ここにいる_Aiobahn_feat._Rionos.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ここにいる (feat. rionos)",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/03_ここにいる_(feat._rionos)_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ここにいる - Stephen Walking Remix",
+      "artist": "Aiobahn/rionos/Stephen Walking",
+      "has_synced": false,
+      "path": "select/04_ここにいる_-_Stephen_Walking_Remix_Aiobahn_rionos_Stephen_Walking.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn/rionos",
+      "has_synced": true,
+      "path": "select/05_ここにいる_Aiobahn_rionos.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/06_ここにいる_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ここにいる (Stephen Walking Remix)",
+      "artist": "Aiobahn",
+      "has_synced": false,
+      "path": "select/07_ここにいる_(Stephen_Walking_Remix)_Aiobahn.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ここにいる (Stephen Walking Remix)",
+      "artist": "Aiobahn feat. rionos",
+      "has_synced": false,
+      "path": "select/08_ここにいる_(Stephen_Walking_Remix)_Aiobahn_feat._rionos.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn",
+      "has_synced": true,
+      "path": "select/09_ここにいる_Aiobahn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn feat. rionos",
+      "has_synced": true,
+      "path": "select/10_ここにいる_Aiobahn_feat._rionos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Aiobahn, Rionos",
+      "has_synced": true,
+      "path": "select/11_ここにいる_Aiobahn,_Rionos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ここにいる",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": true,
+      "path": "select/12_ここにいる_Yoeko_Kurahashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ここにいる (Stephen Walking Remix)",
+      "artist": "Aiobahn, Rionos",
+      "has_synced": true,
+      "path": "select/13_ここにいる_(Stephen_Walking_Remix)_Aiobahn,_Rionos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここにいる (feat. JAGGLA & Staxx T)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/pl_01_ここにいる_(feat._JAGGLA_&_Staxx_T)_MC_TYSON.txt"
+    }
+  ]
+}
